@@ -19,8 +19,6 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -43,7 +41,7 @@
 <!-- CONTACT -->
 ## Contact
 
-Kay Adelaja - (https://www.linkedin.com/in/akolade-adelaja-954918124/) - akolade.adelaja@owasp.org
+Kay Adelaja - akolade.adelaja@owasp.org
 
 Project Link: [https://github.com/kayrrtolkien/DevSecOps-Notes](https://github.com/kayrrtolkien/DevSecOps-Notes)
 
