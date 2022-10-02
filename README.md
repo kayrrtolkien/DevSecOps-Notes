@@ -57,7 +57,7 @@ Project Link: [https://github.com/kayrrtolkien/DevSecOps-Notes](https://github.c
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/kayrrtolkien
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/kayrrtolkien/issues
+[issues-url]: https://github.com/kayrrtolkien/DevSecOps-Notes/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/kayrrtolkien/DevSecOps-Notes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
