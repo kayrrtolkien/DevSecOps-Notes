@@ -59,7 +59,7 @@ Project Link: [https://github.com/kayrrtolkien/DevSecOps-Notes](https://github.c
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
 [issues-url]: https://github.com/kayrrtolkien/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/kayrrtolkien/LICENSE.txt
+[license-url]: https://github.com/kayrrtolkien/DevSecOps-Notes/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]:https://www.linkedin.com/in/akolade-adelaja-954918124/
 [product-screenshot]: images/screenshot.png
