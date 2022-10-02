@@ -28,8 +28,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="[]">
+    <img src="https://images.ctfassets.net/wfutmusr1t3h/2yycTRb93twEoCbO5n75dW/a5026e233832255d6cc73904bb6a7139/infinity.png" alt="Logo" width="600" height="300">
   </a>
 
   <h3 align="center">DevSecOps-Notes</h3>
